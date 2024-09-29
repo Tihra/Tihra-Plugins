@@ -1,18 +1,23 @@
 [
 {
-  "Author": "Tihra",
-  "Name": "Spin the Wheel",
+  "Author": "your name here",
+  "Name": "Sample Plugin",
   "InternalName": "SamplePlugin",
-  "AssemblyVersion": "0.9.0.1",
-  "Description": "",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 9,
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "A quick little plugin to help with contests, and giveaways.",
-  "AcceptsFeedback": false,  
+  "Punchline": "A short one-liner that shows up in /xlplugins.",
+  "AcceptsFeedback": true  
   "RepoUrl": "https://github.com/Tihra/Spin-The-Wheel-DT",
   "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/2/latest.zip",
   "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/2/latest.zip",
