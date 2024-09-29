@@ -3,7 +3,7 @@
   "Author": "Tihra",
   "Name": "Spin The Wheel DT",
   "InternalName": "SamplePlugin",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "0.9.0.1",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
   "Tags": [
@@ -17,7 +17,7 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "AcceptsFeedback": true  
+  "AcceptsFeedback": false  
   "RepoUrl": "https://github.com/Tihra/Spin-The-Wheel-DT",
   "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/2/latest.zip",
   "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/2/latest.zip",
