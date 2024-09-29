@@ -1,7 +1,7 @@
 [
 {
-  "Author": "your name here",
-  "Name": "Sample Plugin",
+  "Author": "Tihra",
+  "Name": "Spin The Wheel DT",
   "InternalName": "SamplePlugin",
   "AssemblyVersion": "0.0.0.1",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
