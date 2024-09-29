@@ -3,7 +3,7 @@
   "Author": "Tihra",
   "Name": "Spin the Wheel",
   "InternalName": "SamplePlugin",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "0.9.0.1",
   "Description": "",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 9,
