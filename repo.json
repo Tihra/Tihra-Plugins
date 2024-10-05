@@ -18,9 +18,9 @@
   "Punchline": "A short one-liner that shows up in /xlplugins.",
   "AcceptsFeedback": true  
   "RepoUrl": "https://github.com/Tihra/Spin-The-Wheel-DT",
-  "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/2/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/2/latest.zip",
-  "DownloadLinkTesting":"https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/2/latest.zip",
+  "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/1/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/1/latest.zip",
+  "DownloadLinkTesting":"https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/1/latest.zip",
   "IconUrl": "https://raw.githubusercontent.com/Sebane1/RoleplayingVoiceDalamud/master/icon.png"
 }
 ]
