@@ -9,13 +9,12 @@
   "Tags": [
     "spin the wheel"
   ],
-  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "AcceptsFeedback": false  
+  "AcceptsFeedback": false, 
   "RepoUrl": "https://github.com/Tihra/Spin-The-Wheel-DT",
   "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip?raw=true",
   "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip?raw=true",

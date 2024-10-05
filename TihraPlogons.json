@@ -15,11 +15,11 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "AcceptsFeedback": false  
+  "AcceptsFeedback": false, 
   "RepoUrl": "https://github.com/Tihra/Spin-The-Wheel-DT",
-  "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
-  "DownloadLinkTesting":"https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
+  "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip?raw=true",
+  "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip?raw=true",
+  "DownloadLinkTesting":"https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip?raw=true",
   "IconUrl": "https://raw.githubusercontent.com/Tihra/Tihra-Plugins/refs/heads/main/Untitdasled.png"
 }
 ]
