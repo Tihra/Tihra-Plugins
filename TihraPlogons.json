@@ -18,8 +18,8 @@
   "AcceptsFeedback": false, 
   "RepoUrl": "https://github.com/Tihra/Spin-The-Wheel-DT",
   "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip,
-  "DownloadLinkTesting":"https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip,
+  "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
+  "DownloadLinkTesting":"https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
   "IconUrl": "https://raw.githubusercontent.com/Tihra/Tihra-Plugins/refs/heads/main/Untitdasled.png"
 }
 ]
