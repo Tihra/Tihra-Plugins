@@ -6,11 +6,15 @@
   "AssemblyVersion": "0.0.0.1",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
+<<<<<<< HEAD
   "Tags": [
     "sample",
     "plugin",
     "goats"
   ],
+=======
+  "DalamudApiLevel": 9,
+>>>>>>> parent of 201661f (a)
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,

@@ -5,11 +5,21 @@
   "Punchline": "A short one-liner that shows up in /xlplugins.",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
+<<<<<<< HEAD
   "Tags": [
     "sample",
     "plugin",
     "goats"
   ]
+=======
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A short one-liner that shows up in /xlplugins.",
+  "AcceptsFeedback": false  
+>>>>>>> parent of 201661f (a)
   "RepoUrl": "https://github.com/Tihra/Spin-The-Wheel-DT",
   "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
   "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
