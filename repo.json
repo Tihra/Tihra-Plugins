@@ -1,9 +1,9 @@
 [
 {
   "Author": "Tihra",
-  "Name": "Spin The Wheel DT",
+  "Name": "Spin The Wheel",
   "InternalName": "SamplePlugin",
-  "AssemblyVersion": "0.9.0.1",
+  "AssemblyVersion": "0.0.0.1",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
   "Tags": [
@@ -11,16 +11,18 @@
     "plugin",
     "goats"
   ],
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "A short one-liner that shows up in /xlplugins.",
-  "AcceptsFeedback": true  
+  "AcceptsFeedback": true
   "RepoUrl": "https://github.com/Tihra/Spin-The-Wheel-DT",
-  "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/1/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/1/latest.zip",
-  "DownloadLinkTesting":"https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/1/latest.zip",
+  "DownloadLinkInstall": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
+  "DownloadLinkTesting":"https://github.com/Tihra/Spin-The-Wheel-DT/releases/download/3/latest.zip",
   "IconUrl": "https://raw.githubusercontent.com/Sebane1/RoleplayingVoiceDalamud/master/icon.png"
 }
 ]
+
